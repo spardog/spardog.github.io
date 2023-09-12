@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## Theme Monos
-> Simple and lightweight theme for Jekyll
+>I am a mathematician, specialized in Algebra and its applications. I found it fascinating to work with Module Theory, Lattice Theory, and ultimately, Category Theory which I intend to apply within pure mathematics and other sciences as well. 
 
 ### Features
 - Responsive.
