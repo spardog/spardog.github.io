@@ -5,8 +5,9 @@ permalink: /about/
 ---
 
 ## Me in a nutshell
->I am a mathematician, specialized in Algebra and its applications. I found it fascinating to work with Module Theory, Lattice Theory, and ultimately, Category Theory which I intend to apply within pure mathematics and other sciences as well.
->I started studying the career of pure mathematics at UNAM, Mexico, where I continued with my studies until getting my PhD degree under the supervision of Dr. Hugo Alberto Rincon Mejia. 
+>I am a mathematician, specialized in Algebra and its applications. I find fascinating to work with Module Theory, Lattice Theory, and ultimately, Category Theory which I intend to apply to pure mathematics and other science fields as well.
+>I started studying the career of pure mathematics at the Universidad Nacional Autonoma de Mexico, where I continued studying until obtaining my PhD degree, under the supervision of Dr. Hugo Alberto Rincon Mejia. Along with other brilliant collaborators, we have set a path of research that "categorize" module-like properties into a prper lattice category framework. \\ 
+> After finishing my PhD at UNAM, I started a postdoc appointment at the University of California, San Diego, in the Bioengineering Department under the direction of Dr. Gabriel Silva. This time, I was focus in Category Theory and other algebraic structures, to formalize notions and concepts from Bionengineering and neuroscience.    
 
 ### Preprints and Publications
 - 2023 González-Bayona F., Pardo-Guerra S., Rincón-Mejía H., Zorrilla-Noriega M., “On torsion theories and open classes of linear modular lattices”, accepted at Communications in Algebra.
