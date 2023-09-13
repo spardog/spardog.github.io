@@ -6,9 +6,11 @@ permalink: /about/
 
 ## Me in a nutshell
 >I am a mathematician, specialized in Algebra and its applications. I found it fascinating to work with Module Theory, Lattice Theory, and ultimately, Category Theory which I intend to apply within pure mathematics and other sciences as well.
->I started studying the career of pure mathematics at UNAM, Mexico, where I finished my bachelor, master, and PhD degrees. 
+>I started studying the career of pure mathematics at UNAM, Mexico, where I continued with my studies until getting my PhD degree under the supervision of Dr. Hugo Alberto Rincon Mejia. 
 
 ### Preprints and Publications
+- 2023 González-Bayona F., Pardo-Guerra S., Rincón-Mejía H., Zorrilla-Noriega M., “On torsion theories and open classes of linear modular lattices”, accepted at Communications in Algebra.
+- 2023 Pardo-Guerra S., Rincón-Mejía H., Zorrilla-Noriega M., González-Bayona F., “On the lattice of conatural classes of linear modular lattices”, accepted at Algebra Universalis.
 - a la la la la long
 - a la la la la long long li ro lo long
 
