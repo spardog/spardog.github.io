@@ -8,15 +8,7 @@ permalink: /about/
 >I am a mathematician, specialized in Algebra and its applications. I found it fascinating to work with Module Theory, Lattice Theory, and ultimately, Category Theory which I intend to apply within pure mathematics and other sciences as well. 
 
 ### Preprints and Publications
-- 2023 González-Bayona F., Pardo-Guerra S., Rincón-Mejía H., Zorrilla-Noriega M., “On torsion theories and open classes of linear modular lattices”, accepted at Communications in Algebra.
-- 2023 Pardo-Guerra S., Rincón-Mejía H., Zorrilla-Noriega M., González-Bayona F., “On the lattice of conatural classes of linear modular lattices”, accepted at Algebra Universalis
-- 2022 Pardo-Guerra S., Vivek G, Roldan J., Morar V., Silva G., “On using undirected graph techniques for directed graphs through Category Theory”, under review at Open Journal of Discrete Mathematics.
-- 2022 Pardo-Guerra S., Silva G., “On preradicals, entropy, and persistence”, under review at International Journal of General Systems.
-- 2021 Pardo-Guerra S., Silva G., “Information entropy re-defined in a category theory context using preradicals”, arXiv 2112.06034.
-- 2021 Pardo-Guerra S., Rincón-Mejía H., Zorrilla-Noriega M., “Big lattices of hereditary and natural classes of linear modular lattices”, Algebra Universalis, 82(4), 1-15.
-- 2020 Pardo-Guerra S., Silva G., “A category theory approach using preradicals to model information flows in networks”. arXiv 2012.02886.
-- 2018 Pardo-Guerra S., Rincón-Mejía H., Zorrilla-Noriega M., “Some isomorphic big lattices and some properties of lattice preradicals” Journal of Algebra and its Applications, 19(07), 2050140.
-- 2016 Jaramillo N., Pardo-Guerra S., Ramirez-Galarza A., “Manual of strategies to solve Analytic Geometry exercises”, Publications of Faculty of Pure Science, National Autonomous Mexican University (UNAM).
+- a la la la la long
 
 ### _config.yml
 > Code block will look like this.
