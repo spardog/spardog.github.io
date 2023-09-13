@@ -5,7 +5,8 @@ permalink: /about/
 ---
 
 ## Me in a nutshell
->I am a mathematician, specialized in Algebra and its applications. I found it fascinating to work with Module Theory, Lattice Theory, and ultimately, Category Theory which I intend to apply within pure mathematics and other sciences as well. 
+>I am a mathematician, specialized in Algebra and its applications. I found it fascinating to work with Module Theory, Lattice Theory, and ultimately, Category Theory which I intend to apply within pure mathematics and other sciences as well.
+>I started studying the career of pure mathematics at UNAM, Mexico, where I finished my bachelor, master, and PhD degrees. 
 
 ### Preprints and Publications
 - a la la la la long
