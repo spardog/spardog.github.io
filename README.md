@@ -13,7 +13,8 @@ permalink: /about/
 >
 >Other than that, I like dogs.
 >
->### CV
+
+### CV
 >Here you watch see my [CV] (https://spardog.github.io/CV.pdf)
 >No mamear perro
 
