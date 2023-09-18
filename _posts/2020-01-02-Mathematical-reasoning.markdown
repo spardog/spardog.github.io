@@ -14,4 +14,4 @@ print 'no mamar'
 ```
 This course aims to bla bla bla bla.
 
-For more information about the syllabus, take a look at [Math reas syll](https://spardog.github.io)
+For more information about the syllabus, take a look at the [Syllabus](https://spardog.github.io/_posts/Mathematical-Reasoning-Course-Syllabus.pdf)
