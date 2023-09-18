@@ -30,7 +30,3 @@ permalink: /about/
 - 2016 Jaramillo N., Pardo-Guerra S., Ramirez-Galarza A., “Manual of strategies to solve Analytic Geometry exercises”, Publications of Faculty of Pure Science, National Autonomous Mexican University (UNAM).
 
 
-% #### Page - Mobile
-% ![alt text](/public/img/screenshot-m1.png)
-% #### Page - Articles
-% ![alt text](/public/img/screenshot-m2.png)
