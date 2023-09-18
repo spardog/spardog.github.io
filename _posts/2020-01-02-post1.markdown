@@ -10,4 +10,5 @@ category: sample
 This is code
 ```ruby
 print 'hello world'
+print 'no mamar'
 ```
