@@ -15,7 +15,7 @@ permalink: /about/
 >
 
 ### CV
->Here you watch see my [CV] (https://spardog.github.io/CV.pdf)
+>Here you watch see my [CV](https://spardog.github.io/CV.pdf)
 >No mamear perro
 
 ### Preprints and Publications
