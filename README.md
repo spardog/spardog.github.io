@@ -12,11 +12,7 @@ permalink: /about/
 >So far, these are my two lines of research.
 >
 >Other than that, I like dogs.
->
 
-### CV
->Here you watch see my [CV](https://spardog.github.io/CV.pdf)
->No mamear perro....
 
 ### Preprints and Publications
 - 2023 González-Bayona F., Pardo-Guerra S., Rincón-Mejía H., Zorrilla-Noriega M., “On torsion theories and open classes of linear modular lattices”, accepted at Communications in Algebra.
@@ -29,4 +25,5 @@ permalink: /about/
 - 2018 Pardo-Guerra S., Rincón-Mejía H., Zorrilla-Noriega M., “Some isomorphic big lattices and some properties of lattice preradicals” Journal of Algebra and its Applications, 19(07), 2050140
 - 2016 Jaramillo N., Pardo-Guerra S., Ramirez-Galarza A., “Manual of strategies to solve Analytic Geometry exercises”, Publications of Faculty of Pure Science, National Autonomous Mexican University (UNAM).
 
-
+### CV
+>Here you can find my complete [CV](https://spardog.github.io/CV.pdf)
