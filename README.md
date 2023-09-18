@@ -27,18 +27,7 @@ permalink: /about/
 - 2018 Pardo-Guerra S., Rincón-Mejía H., Zorrilla-Noriega M., “Some isomorphic big lattices and some properties of lattice preradicals” Journal of Algebra and its Applications, 19(07), 2050140
 - 2016 Jaramillo N., Pardo-Guerra S., Ramirez-Galarza A., “Manual of strategies to solve Analytic Geometry exercises”, Publications of Faculty of Pure Science, National Autonomous Mexican University (UNAM).
 
-%### _config.yml
-% > Code block will look like this.
-% ```yml
-% highlighter-theme: monokai //you can change your syntax color scheme.
-% date_format: "%Y-%M-%D" //and date format.
-% ```
 
-% ### Screenshots
-% #### Page
-% ![alt text](/public/img/screenshot-1.png)
-% #### Articles
-% ![alt text](/public/img/screenshot-2.png)
 % #### Page - Mobile
 % ![alt text](/public/img/screenshot-m1.png)
 % #### Page - Articles
