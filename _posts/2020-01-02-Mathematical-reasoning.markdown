@@ -12,3 +12,6 @@ This is code
 print 'hello world'
 print 'no mamar'
 ```
+This course aims to bla bla bla bla.
+
+For more information about the syllabus, take a look at [Math reas syll](https://spardog.github.io)
