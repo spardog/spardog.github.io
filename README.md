@@ -16,7 +16,7 @@ permalink: /about/
 
 ### CV
 >Here you watch see my [CV](https://spardog.github.io/CV.pdf)
->No mamear perro
+>No mamear perro....
 
 ### Preprints and Publications
 - 2023 González-Bayona F., Pardo-Guerra S., Rincón-Mejía H., Zorrilla-Noriega M., “On torsion theories and open classes of linear modular lattices”, accepted at Communications in Algebra.
