@@ -11,7 +11,7 @@ The course of Mathematical Reasoning is highly valuable, as it focuses on develo
 
 **Problem Solving**: The course likely emphasizes problem-solving techniques and strategies, which can be applied not only in mathematics but also in various real-world situations.
 
-**Logic and Proofv: Understanding the principles of formal logic and how to construct and evaluate mathematical proofs is a fundamental skill for any advanced study in mathematics.
+**Logic and Proof**: Understanding the principles of formal logic and how to construct and evaluate mathematical proofs is a fundamental skill for any advanced study in mathematics.
 
 **Abstraction and Generalization**: Mathematical reasoning often involves the ability to abstract and generalize from specific examples or cases. This is an important skill in mathematics and in many other fields.
 
