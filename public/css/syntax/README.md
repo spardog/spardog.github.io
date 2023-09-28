@@ -1,6 +1,6 @@
 # Updates and News
 
-No new news from the moment.
+No news for the moment.
 
 
 
