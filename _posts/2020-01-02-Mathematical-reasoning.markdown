@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mathematical reasoning
-date: 202-09-18 19:20:23 +0900
+date: 202-09-29 19:20:23 +0900
 category: sample
 ---
 
