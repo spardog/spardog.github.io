@@ -31,6 +31,8 @@ Linear Algebra is a fundamental branch of mathematics with broad applications in
 
 **Economics and Social Sciences**: Linear Algebra is used in economics for tasks such as solving systems of linear equations in input-output models and in modeling economic relationships.
 
-Overall, studying Linear Algebra provides a powerful toolkit that finds applications in a wide range of scientific and engineering disciplines. It is a cornerstone of modern mathematics and is indispensable for anyone pursuing a career in STEM (science, technology, engineering, and mathematics) fields. For more information and details on this course, plesae see [Syllabus](https://mathweb.ucsd.edu/~math18/)
+Overall, studying Linear Algebra provides a powerful toolkit that finds applications in a wide range of scientific and engineering disciplines. It is a cornerstone of modern mathematics and is indispensable for anyone pursuing a career in STEM (science, technology, engineering, and mathematics) fields. 
+
+For more information and details on this course, plesae see [Syllabus](https://mathweb.ucsd.edu/~math18/)
 
 
