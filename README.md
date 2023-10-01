@@ -11,8 +11,7 @@ permalink: /about/
 > After finishing my PhD at UNAM, I started a postdoc at the University of California, San Diego, in the Bioengineering Department under the direction of Dr. Gabriel Silva. During this postdoctoral appointment, I started working with Category Theory and other algebraic structures, to formalize notions and concepts from Bionengineering and neuroscience. Particularly, we aim to formalize concepts and notions of neural networks and its dynamics.
 >So far, these are my two lines of research.
 >
->Besides that, I love dogs. 
-
+>Apart from that, I love dogs. 
 
 ### Preprints and Publications
 - 2023 González-Bayona F., Pardo-Guerra S., Rincón-Mejía H., Zorrilla-Noriega M., “On torsion theories and open classes of linear modular lattices”, accepted at Communications in Algebra.
