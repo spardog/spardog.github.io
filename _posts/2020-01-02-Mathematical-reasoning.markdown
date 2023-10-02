@@ -27,5 +27,11 @@ The course of Mathematical Reasoning is highly valuable, as it focuses on develo
 
 Overall, a course on Mathematical Reasoning provides a solid foundation in the skills necessary for advanced mathematical study and has applications far beyond the realm of mathematics itself. It helps foster a logical, analytical mindset that is invaluable in many professional and academic pursuits.
 
-For more information and detains about the course, see [Syllabus](https://spardog.github.io/Mathematical-Reasoning-Course-Syllabus.pdf)
+For more information and detains about the course, see:
+
+[Syllabus](https://spardog.github.io/Mathematical-Reasoning-Course-Syllabus.pdf);
+
+[Calendar] (https://spardog.github.io/Math-109-Calendar.pdf) 
+
+
 
