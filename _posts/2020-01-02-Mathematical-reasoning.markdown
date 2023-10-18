@@ -31,7 +31,7 @@ For more information and detains about the course, see:
 
 [Syllabus](https://spardog.github.io/Mathematical-Reasoning-Course-Syllabus.pdf);
 
-[Calendar](https://spardog.github.io/Math-109-Calendar.pdf) 
+[Calendar](https://spardog.github.io/Math_109_Calendar.pdf) 
 
 
 
