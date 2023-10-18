@@ -29,7 +29,7 @@ Overall, a course on Mathematical Reasoning provides a solid foundation in the s
 
 For more information and detains about the course, see:
 
-[Syllabus](https://spardog.github.io/Mathematical-Reasoning-Course-Syllabus.pdf);
+[Syllabus](https://spardog.github.io/Mathematical_Reasoning_Course_Syllabus.pdf);
 
 [Calendar](https://spardog.github.io/Math_109_Calendar.pdf) 
 
