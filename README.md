@@ -5,13 +5,10 @@ permalink: /about/
 ---
 
 ## Me in a nutshell
->I am a mathematician, specialized in Algebra and its applications. I find fascinating to work with Module Theory, Lattice Theory, and ultimately, Category Theory which I intend to apply to pure mathematics and other science fields as well.
->Sumarizing, I studied the career of pure mathematics at the Universidad Nacional Autonoma de Mexico, where I continued until obtaining my master's and PhD degree, under the supervision of Dr. Hugo Alberto Rincon Mejia. In my PhD thesis, I relate the lattice of module preradicals with the lattice of lattice preradicals, via the category ofi linear modula lattices. This starting project led us to an ongoing work that aim to  “categorize” module-like properties into their lattice counterpart using the category of linear modular lattices as these evoke some important module properties (for instance, the first theorem of isomorphism).
-> 
-> After finishing my PhD at UNAM, I started a postdoc at the University of California, San Diego, in the Bioengineering Department under the direction of Dr. Gabriel Silva. During this postdoctoral appointment, I started working with Category Theory and other algebraic structures, to formalize notions and concepts from Bionengineering and neuroscience. Particularly, we aim to formalize concepts and notions of neural networks and its dynamics.
->So far, these are my two lines of research.
->
->Apart from that, I love dogs. 
+> I started my undergraduate studies at Universidad Nacional Autónoma de México (UNAM), where I pursued a bachelor's degree in Pure Mathematics. During this time, I developed a strong interest in algebra and its formalism, ultimately writing my bachelor's thesis summarizing key results in rings, fields, and Galois Theory.  Subsequently, I enrolled in a master's program at UNAM, where I delved deeper into the study of algebraic structures. This time, my master's thesis focused on Abelian groups that are not the additive structure of a ring.
+> Following this, I pursued my PhD at UNAM, where I conducted research in Category Theory, Lattice Theory, and Module Theory, resulting in my first original contributions to these fields.
+Specifically, I explored properties relating the category of modules, and a particular category of lattices which has modular lattices as objects and “linear lattice morphisms” as morphisms.  This approach became my first line of research, in which I replicate or  “categorize” module-related properties into their lattice counterparts.
+> After completing my PhD at UNAM, I undertook a postdoctoral appointment at the University of California, San Diego (UCSD), under the direction of Dr. Gabriel Silva. During this time, we  engaged in research involving a mathematical framework that formalizes biological neural networks using Category Theory. Within this line, we believe that its applications could pave the way for a new avenue of research elucidating and characterizing the brain's high complexity. Consequently, this could furnish mathematical frameworks associated with a new era of AI.  
 
 ### Preprints and Publications
 - 2024 Pardo-Guerra S., Silva G., “On preradicals, entropy, and persistence”, International Journal of General Systems, 1–25. https://doi.org/10.1080/03081079.2024.2348665.
@@ -19,9 +16,7 @@ permalink: /about/
 - 2023 Jingze Li J., Pardo-Guerra S., Basu K., Silva G., “A Categorical Framework for Quantifying Emergent Effects in Network Topology”. Under review at “Neural Computation”.
 - 2023 González-Bayona F., Pardo-Guerra S., Rincón-Mejía H., Zorrilla-Noriega M., “On torsion theories and open classes of linear modular lattices”; Communications in Algebra, 0 (0) , 1-21.
 - 2023 Pardo-Guerra S., Rincón-Mejía H., Zorrilla-Noriega M., González-Bayona F., “On the lattice of conatural classes of linear modular lattices”, accepted at Algebra Universalis.
-- 2022 Pardo-Guerra S., Vivek G, Roldan J., Morar V., Silva G., “On using undirected graph techniques for directed graphs through Category Theory”,https://doi.org/10.21203/rs.3.rs-1995489/v2
 - 2021 Pardo-Guerra S., Rincón-Mejía H., Zorrilla-Noriega M., “Big lattices of hereditary and natural classes of linear modular lattices”, Algebra Universalis, 82(4), 1-15.
-- 2020 Pardo-Guerra S., Silva G., “A category theory approach using preradicals to model information flows in networks”. arXiv 2012.02886.
 - 2018 Pardo-Guerra S., Rincón-Mejía H., Zorrilla-Noriega M., “Some isomorphic big lattices and some properties of lattice preradicals” Journal of Algebra and its Applications, 19(07), 2050140
 - 2016 Jaramillo N., Pardo-Guerra S., Ramirez-Galarza A., “Manual of strategies to solve Analytic Geometry exercises”, Publications of Faculty of Pure Science, National Autonomous Mexican University (UNAM).
 
