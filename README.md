@@ -6,8 +6,10 @@ permalink: /about/
 
 ## Me in a nutshell
 > I started my undergraduate studies at Universidad Nacional Autónoma de México (UNAM), where I pursued a bachelor's degree in Pure Mathematics. During this time, I developed a strong interest in algebra and its formalism, ultimately writing my bachelor's thesis summarizing key results in rings, fields, and Galois Theory.  Subsequently, I enrolled in a master's program at UNAM, where I delved deeper into the study of algebraic structures. This time, my master's thesis focused on Abelian groups that are not the additive structure of a ring.
+> 
 > Following this, I pursued my PhD at UNAM, where I conducted research in Category Theory, Lattice Theory, and Module Theory, resulting in my first original contributions to these fields.
 Specifically, I explored properties relating the category of modules, and a particular category of lattices which has modular lattices as objects and “linear lattice morphisms” as morphisms.  This approach became my first line of research, in which I replicate or  “categorize” module-related properties into their lattice counterparts.
+> 
 > After completing my PhD at UNAM, I undertook a postdoctoral appointment at the University of California, San Diego (UCSD), under the direction of Dr. Gabriel Silva. During this time, we  engaged in research involving a mathematical framework that formalizes biological neural networks using Category Theory. Within this line, we believe that its applications could pave the way for a new avenue of research elucidating and characterizing the brain's high complexity. Consequently, this could furnish mathematical frameworks associated with a new era of AI.  
 
 ### Preprints and Publications
