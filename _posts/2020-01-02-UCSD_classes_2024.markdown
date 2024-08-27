@@ -1,7 +1,7 @@
 ---
 layout: post
 title: UCSD Accademic year 2024
-date: 202-09-29 19:20:23 +0900
+date: 2023-09-29 19:20:23 +0900
 category: sample
 ---
 
