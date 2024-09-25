@@ -13,6 +13,7 @@ Specifically, I explored properties relating the category of modules, and a part
 > After completing my PhD at UNAM, I undertook a postdoctoral appointment at the University of California, San Diego (UCSD), under the direction of Dr. Gabriel Silva. During this time, we  engaged in research involving a mathematical framework that formalizes biological neural networks using Category Theory. Within this line, we believe that its applications could pave the way for a new avenue of research elucidating and characterizing the brain's high complexity. Consequently, this could furnish mathematical frameworks associated with a new era of AI.  
 
 ### Preprints and Publications
+- 2024 González-Bayona F., Pardo-Guerra S., Rincón-Mejía H., Zorrilla-Noriega M., “On semi-projective lattices”, submitted at International Electronic Journal of Algebra.
 - 2024 Pardo-Guerra S., Silva G., “On preradicals, entropy, and persistence”, International Journal of General Systems, 1–25. https://doi.org/10.1080/03081079.2024.2348665.
 - 2024 Pardo-Guerra S., Vivek G, Roldan J., Morar V., Silva G., “Extending undirected graph techniques for directed graphs via Category Theory”, Mathematics 2024, 12, 1357. https://doi.org/10.3390/math12091357.
 - 2023 Jingze Li J., Pardo-Guerra S., Basu K., Silva G., “A Categorical Framework for Quantifying Emergent Effects in Network Topology”. Under review at “Neural Computation”.
