@@ -7,11 +7,11 @@ category: sample
 
 Fall:
 
-Math 109, Linear Algebra
+Math 109 (Mathematical Reasoning), Math 18 (Linear Algebra)
 
 Winter 
 
-Math 3C, Math 10C
+Math 3C (Precalculus), Math 10C (Vector Calculus)
 
 Spring 
 
