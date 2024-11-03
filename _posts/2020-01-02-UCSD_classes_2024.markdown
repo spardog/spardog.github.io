@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Classes taught at UCSD
-date: -
+date: Accademic Year 2024 - 2025
 category: sample
 ---
 
-Accademic Year 2024 - 2025
 
 Fall:
 
