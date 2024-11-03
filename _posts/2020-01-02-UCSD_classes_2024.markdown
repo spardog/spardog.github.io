@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Classes taught at UCSD
-date: Accademic Year 2024 - 2025
+date: 2019-09-29 19:31:29 +0900
 category: sample
 ---
 
