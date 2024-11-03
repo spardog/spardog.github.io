@@ -5,7 +5,6 @@ date:   2012-2019 19:31:29 +0900
 categories: jekyll update
 ---
 
-oooo
 
 Basic Algebra I, (2017).
 
