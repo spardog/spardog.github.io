@@ -5,6 +5,8 @@ date:   2019-09-29 19:31:29 +0900
 categories: jekyll update
 ---
 
+a
+
 Basic Algebra I, (2017).
 
 Basic Algebra II, (2017, 2016, 2014, 2013, 2012).
