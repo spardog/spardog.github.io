@@ -27,4 +27,4 @@ permalink: /about/
 >Here you can find my complete [CV](https://spardog.github.io/CV.pdf)
 >
 ### Prime graph's code
-> Here you can find the code we use in our paper relating directed graphs and prime graphs: (https://spardog.github.io/prime_graphs-main.zip)
+> Here you can find the code we use in our paper relating directed graphs and prime graphs: [prime_graphs.zim](https://spardog.github.io/prime_graphs.zip)
