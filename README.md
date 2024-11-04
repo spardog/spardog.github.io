@@ -25,3 +25,6 @@ permalink: /about/
 
 ### CV
 >Here you can find my complete [CV](https://spardog.github.io/CV.pdf)
+>
+### Prime graph's code
+> Here you can play with the code we use for the prime graphs paper. 
