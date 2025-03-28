@@ -13,10 +13,11 @@ permalink: /about/
 >
 
 ### Preprints and Publications
+- 2025 Pardo-Guerra S., Vivek G., Silva G., “On The Graph Isomorphism Completeness of Directed and Multi-directed Graphs”, Mathematics 2025, 13, 228. (Feature paper).
+- 2025 Jingze Li J., Pardo-Guerra S., Basu K., Silva G., “A Categorical Framework for Quantifying Emergent Effects in Network Topology”, Neural Computations.
 - 2024 González-Bayona F., Pardo-Guerra S., Rincón-Mejía H., Zorrilla-Noriega M., “On semi-projective lattices”, submitted at International Electronic Journal of Algebra.
 - 2024 Pardo-Guerra S., Silva G., “On preradicals, entropy, and persistence”, International Journal of General Systems, 1–25. https://doi.org/10.1080/03081079.2024.2348665.
-- 2024 Pardo-Guerra S., Vivek G, Roldan J., Morar V., Silva G., “Extending undirected graph techniques for directed graphs via Category Theory”, Mathematics 2024, 12, 1357. https://doi.org/10.3390/math12091357.
-- 2023 Jingze Li J., Pardo-Guerra S., Basu K., Silva G., “A Categorical Framework for Quantifying Emergent Effects in Network Topology”. Under review at “Neural Computation”.
+- 2024 Pardo-Guerra S., Vivek G, Roldan J., Morar V., Silva G., “Extending undirected graph techniques for directed graphs via Category Theory”, Mathematics 2024, 12, 1357. https://doi.org/10.3390/math12091357. (Feature Paper, Editor's choice)
 - 2023 González-Bayona F., Pardo-Guerra S., Rincón-Mejía H., Zorrilla-Noriega M., “On torsion theories and open classes of linear modular lattices”; Communications in Algebra, 0 (0) , 1-21.
 - 2023 Pardo-Guerra S., Rincón-Mejía H., Zorrilla-Noriega M., González-Bayona F., “On the lattice of conatural classes of linear modular lattices”, accepted at Algebra Universalis.
 - 2021 Pardo-Guerra S., Rincón-Mejía H., Zorrilla-Noriega M., “Big lattices of hereditary and natural classes of linear modular lattices”, Algebra Universalis, 82(4), 1-15.
